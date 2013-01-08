@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>fatbird_bruised.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 4}, {246, 222}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 10}</string>
+			<key>spriteSize</key>
+			<string>{246, 222}</string>
+			<key>spriteSourceSize</key>
+			<string>{250, 250}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 466}, {246, 222}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>fatbird_default.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 27}, {246, 212}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -8}</string>
+			<key>spriteSize</key>
+			<string>{246, 212}</string>
+			<key>spriteSourceSize</key>
+			<string>{250, 250}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{250, 652}, {246, 212}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>fatbird_flying1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 27}, {246, 212}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -8}</string>
+			<key>spriteSize</key>
+			<string>{246, 212}</string>
+			<key>spriteSourceSize</key>
+			<string>{250, 250}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{248, 224}, {246, 212}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>fatbird_flying10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 6}, {246, 212}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 13}</string>
+			<key>spriteSize</key>
+			<string>{246, 212}</string>
+			<key>spriteSourceSize</key>
+			<string>{250, 250}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{488, 0}, {246, 212}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>fatbird_flying11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 10}, {246, 212}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 9}</string>
+			<key>spriteSize</key>
+			<string>{246, 212}</string>
+			<key>spriteSourceSize</key>
+			<string>{250, 250}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{248, 438}, {246, 212}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>fatbird_flying12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 14}, {246, 210}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 6}</string>
+			<key>spriteSize</key>
+			<string>{246, 210}</string>
+			<key>spriteSourceSize</key>
+			<string>{250, 250}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{498, 640}, {246, 210}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>fatbird_flying13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 17}, {246, 210}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 3}</string>
+			<key>spriteSize</key>
+			<string>{246, 210}</string>
+			<key>spriteSourceSize</key>
+			<string>{250, 250}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{736, 0}, {246, 210}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>fatbird_flying14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 21}, {246, 210}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -1}</string>
+			<key>spriteSize</key>
+			<string>{246, 210}</string>
+			<key>spriteSourceSize</key>
+			<string>{250, 250}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{496, 428}, {246, 210}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>fatbird_flying15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 24}, {246, 208}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -3}</string>
+			<key>spriteSize</key>
+			<string>{246, 208}</string>
+			<key>spriteSourceSize</key>
+			<string>{250, 250}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{996, 210}, {246, 208}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>fatbird_flying16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 26}, {246, 208}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -5}</string>
+			<key>spriteSize</key>
+			<string>{246, 208}</string>
+			<key>spriteSourceSize</key>
+			<string>{250, 250}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1236, 0}, {246, 208}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>fatbird_flying17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 29}, {248, 208}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -8}</string>
+			<key>spriteSize</key>
+			<string>{248, 208}</string>
+			<key>spriteSourceSize</key>
+			<string>{250, 250}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{994, 422}, {248, 208}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>fatbird_flying18.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 31}, {248, 208}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -10}</string>
+			<key>spriteSize</key>
+			<string>{248, 208}</string>
+			<key>spriteSourceSize</key>
+			<string>{250, 250}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{746, 632}, {248, 208}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>fatbird_flying19.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 33}, {248, 208}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -12}</string>
+			<key>spriteSize</key>
+			<string>{248, 208}</string>
+			<key>spriteSourceSize</key>
+			<string>{250, 250}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{744, 422}, {248, 208}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>fatbird_flying2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 31}, {248, 212}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -12}</string>
+			<key>spriteSize</key>
+			<string>{248, 212}</string>
+			<key>spriteSourceSize</key>
+			<string>{250, 250}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 690}, {248, 212}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>fatbird_flying20.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 35}, {248, 206}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -13}</string>
+			<key>spriteSize</key>
+			<string>{248, 206}</string>
+			<key>spriteSourceSize</key>
+			<string>{250, 250}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{996, 632}, {248, 206}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>fatbird_flying3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 38}, {250, 208}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -17}</string>
+			<key>spriteSize</key>
+			<string>{250, 208}</string>
+			<key>spriteSourceSize</key>
+			<string>{250, 250}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{744, 212}, {250, 208}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>fatbird_flying4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 41}, {250, 208}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -20}</string>
+			<key>spriteSize</key>
+			<string>{250, 208}</string>
+			<key>spriteSourceSize</key>
+			<string>{250, 250}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{984, 0}, {250, 208}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>fatbird_flying5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 22}, {246, 222}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -8}</string>
+			<key>spriteSize</key>
+			<string>{246, 222}</string>
+			<key>spriteSourceSize</key>
+			<string>{250, 250}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{240, 0}, {246, 222}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>fatbird_flying6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 3}, {238, 234}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 5}</string>
+			<key>spriteSize</key>
+			<string>{238, 234}</string>
+			<key>spriteSourceSize</key>
+			<string>{250, 250}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {238, 234}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>fatbird_flying7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 14}, {246, 228}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -3}</string>
+			<key>spriteSize</key>
+			<string>{246, 228}</string>
+			<key>spriteSourceSize</key>
+			<string>{250, 250}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 236}, {246, 228}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>fatbird_flying8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 38}, {246, 206}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -16}</string>
+			<key>spriteSize</key>
+			<string>{246, 206}</string>
+			<key>spriteSourceSize</key>
+			<string>{250, 250}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1244, 210}, {246, 206}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>fatbird_flying9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 21}, {246, 212}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -2}</string>
+			<key>spriteSize</key>
+			<string>{246, 212}</string>
+			<key>spriteSourceSize</key>
+			<string>{250, 250}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{496, 214}, {246, 212}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.5.5</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{2048, 1024}</string>
+		<key>name</key>
+		<string>fatbird.zwd</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>sheet-ipadhd</string>
+			<key>textureFileName</key>
+			<string>fatbird_sheet-ipadhd</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>fatbird_sheet-ipadhd</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

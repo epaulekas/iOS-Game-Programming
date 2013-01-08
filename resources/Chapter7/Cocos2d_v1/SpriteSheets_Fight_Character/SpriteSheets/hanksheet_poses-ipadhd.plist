@@ -1,0 +1,1644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>hank_crouchattack0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{82, 181}, {196, 250}}</string>
+			<key>spriteOffset</key>
+			<string>{30, -81}</string>
+			<key>spriteSize</key>
+			<string>{196, 250}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1812, 0}, {196, 250}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_crouchattack1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{82, 181}, {196, 250}}</string>
+			<key>spriteOffset</key>
+			<string>{30, -81}</string>
+			<key>spriteSize</key>
+			<string>{196, 250}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1614, 1158}, {196, 250}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_crouchattack2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{82, 181}, {196, 250}}</string>
+			<key>spriteOffset</key>
+			<string>{30, -81}</string>
+			<key>spriteSize</key>
+			<string>{196, 250}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1812, 252}, {196, 250}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_crouchkick0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{82, 181}, {196, 250}}</string>
+			<key>spriteOffset</key>
+			<string>{30, -81}</string>
+			<key>spriteSize</key>
+			<string>{196, 250}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1566, 0}, {196, 250}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_crouchkick1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{82, 181}, {198, 250}}</string>
+			<key>spriteOffset</key>
+			<string>{31, -81}</string>
+			<key>spriteSize</key>
+			<string>{198, 250}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1466, 288}, {198, 250}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_crouchkick2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{82, 181}, {192, 248}}</string>
+			<key>spriteOffset</key>
+			<string>{28, -80}</string>
+			<key>spriteSize</key>
+			<string>{192, 248}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{860, 1800}, {192, 248}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_crouchkick3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{82, 183}, {184, 246}}</string>
+			<key>spriteOffset</key>
+			<string>{24, -81}</string>
+			<key>spriteSize</key>
+			<string>{184, 246}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1648, 860}, {184, 246}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_crouchkick4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{82, 183}, {196, 246}}</string>
+			<key>spriteOffset</key>
+			<string>{30, -81}</string>
+			<key>spriteSize</key>
+			<string>{196, 246}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1812, 504}, {196, 246}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_damaged0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{84, 118}, {140, 304}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -45}</string>
+			<key>spriteSize</key>
+			<string>{140, 304}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 612}, {140, 304}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_damaged1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{80, 109}, {144, 304}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -36}</string>
+			<key>spriteSize</key>
+			<string>{144, 304}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 306}, {144, 304}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_damaged2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{75, 100}, {166, 298}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -24}</string>
+			<key>spriteSize</key>
+			<string>{166, 298}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{334, 1518}, {166, 298}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_damaged3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{67, 94}, {204, 282}}</string>
+			<key>spriteOffset</key>
+			<string>{19, -10}</string>
+			<key>spriteSize</key>
+			<string>{204, 282}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1408, 1186}, {204, 282}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_damaged4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{64, 91}, {206, 278}}</string>
+			<key>spriteOffset</key>
+			<string>{17, -5}</string>
+			<key>spriteSize</key>
+			<string>{206, 278}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1480, 1756}, {206, 278}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_damaged5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{60, 87}, {208, 274}}</string>
+			<key>spriteOffset</key>
+			<string>{14, 1}</string>
+			<key>spriteSize</key>
+			<string>{208, 274}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1438, 882}, {208, 274}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_dash_jab.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 130}, {182, 296}}</string>
+			<key>spriteOffset</key>
+			<string>{29, -53}</string>
+			<key>spriteSize</key>
+			<string>{182, 296}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{790, 1502}, {182, 296}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_dash_kick.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{78, 101}, {208, 242}}</string>
+			<key>spriteOffset</key>
+			<string>{32, 3}</string>
+			<key>spriteSize</key>
+			<string>{208, 242}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{650, 1806}, {208, 242}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_dash_punch.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{74, 130}, {158, 288}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -49}</string>
+			<key>spriteSize</key>
+			<string>{158, 288}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1120, 1488}, {158, 288}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_down.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{68, 181}, {210, 250}}</string>
+			<key>spriteOffset</key>
+			<string>{23, -81}</string>
+			<key>spriteSize</key>
+			<string>{210, 250}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1054, 1788}, {210, 250}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_fighting_default.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{82, 130}, {142, 300}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -55}</string>
+			<key>spriteSize</key>
+			<string>{142, 300}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{168, 916}, {142, 300}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_injured0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{75, 130}, {148, 298}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -54}</string>
+			<key>spriteSize</key>
+			<string>{148, 298}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{618, 602}, {148, 298}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_injured1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{76, 130}, {144, 298}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -54}</string>
+			<key>spriteSize</key>
+			<string>{144, 298}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{656, 902}, {144, 298}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_injured2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{75, 130}, {142, 298}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -54}</string>
+			<key>spriteSize</key>
+			<string>{142, 298}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{796, 0}, {142, 298}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_injured3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{76, 130}, {138, 298}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -54}</string>
+			<key>spriteSize</key>
+			<string>{138, 298}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{650, 1506}, {138, 298}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_injured4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{75, 130}, {134, 298}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -54}</string>
+			<key>spriteSize</key>
+			<string>{134, 298}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{940, 0}, {134, 298}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_injured5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{75, 130}, {144, 298}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -54}</string>
+			<key>spriteSize</key>
+			<string>{144, 298}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{550, 1206}, {144, 298}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_injured6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{75, 130}, {148, 298}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -54}</string>
+			<key>spriteSize</key>
+			<string>{148, 298}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{620, 300}, {148, 298}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_jab0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{77, 130}, {146, 298}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -54}</string>
+			<key>spriteSize</key>
+			<string>{146, 298}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{502, 1512}, {146, 298}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_jab1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{76, 130}, {142, 298}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -54}</string>
+			<key>spriteSize</key>
+			<string>{142, 298}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{768, 600}, {142, 298}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_jab2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{77, 130}, {154, 298}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -54}</string>
+			<key>spriteSize</key>
+			<string>{154, 298}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{394, 1212}, {154, 298}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_jab3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{77, 130}, {152, 298}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -54}</string>
+			<key>spriteSize</key>
+			<string>{152, 298}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{502, 906}, {152, 298}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_jab4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{77, 130}, {142, 298}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -54}</string>
+			<key>spriteSize</key>
+			<string>{142, 298}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{770, 300}, {142, 298}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_jump_jab.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{56, 96}, {148, 284}}</string>
+			<key>spriteOffset</key>
+			<string>{-20, -13}</string>
+			<key>spriteSize</key>
+			<string>{148, 284}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1258, 1186}, {148, 284}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_jump_kick.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 98}, {182, 286}}</string>
+			<key>spriteOffset</key>
+			<string>{27, -16}</string>
+			<key>spriteSize</key>
+			<string>{182, 286}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1382, 0}, {182, 286}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_jump_punch.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{54, 97}, {186, 304}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -24}</string>
+			<key>spriteSize</key>
+			<string>{186, 304}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {186, 304}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_jumping.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 97}, {178, 278}}</string>
+			<key>spriteOffset</key>
+			<string>{-15, -11}</string>
+			<key>spriteSize</key>
+			<string>{178, 278}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1496, 1470}, {178, 278}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_kick0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{55, 130}, {166, 294}}</string>
+			<key>spriteOffset</key>
+			<string>{-12, -52}</string>
+			<key>spriteSize</key>
+			<string>{166, 294}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1076, 0}, {166, 294}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_kick1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 130}, {136, 294}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -52}</string>
+			<key>spriteSize</key>
+			<string>{136, 294}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1190, 296}, {136, 294}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_kick2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{89, 126}, {194, 298}}</string>
+			<key>spriteOffset</key>
+			<string>{36, -50}</string>
+			<key>spriteSize</key>
+			<string>{194, 298}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{198, 1218}, {194, 298}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_kick3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{90, 126}, {186, 298}}</string>
+			<key>spriteOffset</key>
+			<string>{33, -50}</string>
+			<key>spriteSize</key>
+			<string>{186, 298}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{432, 302}, {186, 298}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_kick4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 127}, {194, 298}}</string>
+			<key>spriteOffset</key>
+			<string>{35, -51}</string>
+			<key>spriteSize</key>
+			<string>{194, 298}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{138, 1524}, {194, 298}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_lost.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{50, 130}, {196, 300}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -55}</string>
+			<key>spriteSize</key>
+			<string>{196, 300}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1222}, {196, 300}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_panting0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{82, 130}, {142, 300}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -55}</string>
+			<key>spriteSize</key>
+			<string>{142, 300}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{286, 610}, {142, 300}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_panting1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{82, 129}, {142, 302}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -55}</string>
+			<key>spriteSize</key>
+			<string>{142, 302}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{142, 612}, {142, 302}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_panting2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{82, 128}, {142, 302}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -54}</string>
+			<key>spriteSize</key>
+			<string>{142, 302}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{146, 306}, {142, 302}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_panting3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{82, 129}, {142, 302}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -55}</string>
+			<key>spriteSize</key>
+			<string>{142, 302}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{188, 0}, {142, 302}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_panting4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{82, 130}, {140, 300}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -55}</string>
+			<key>spriteSize</key>
+			<string>{140, 300}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{290, 304}, {140, 300}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_punch0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{77, 130}, {146, 298}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -54}</string>
+			<key>spriteSize</key>
+			<string>{146, 298}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{648, 0}, {146, 298}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_punch1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{77, 130}, {136, 298}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -54}</string>
+			<key>spriteSize</key>
+			<string>{136, 298}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{802, 900}, {136, 298}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_punch2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{77, 130}, {188, 298}}</string>
+			<key>spriteOffset</key>
+			<string>{21, -54}</string>
+			<key>spriteSize</key>
+			<string>{188, 298}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{312, 912}, {188, 298}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_punch3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{77, 130}, {186, 298}}</string>
+			<key>spriteOffset</key>
+			<string>{20, -54}</string>
+			<key>spriteSize</key>
+			<string>{186, 298}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{430, 606}, {186, 298}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_punch4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{77, 130}, {176, 298}}</string>
+			<key>spriteOffset</key>
+			<string>{15, -54}</string>
+			<key>spriteSize</key>
+			<string>{176, 298}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{470, 0}, {176, 298}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_spinning0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 112}, {218, 290}}</string>
+			<key>spriteOffset</key>
+			<string>{-16, -32}</string>
+			<key>spriteSize</key>
+			<string>{218, 290}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1218, 894}, {218, 290}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_spinning1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 115}, {214, 282}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -31}</string>
+			<key>spriteSize</key>
+			<string>{214, 282}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1280, 1472}, {214, 282}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_spinning2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 113}, {216, 272}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -24}</string>
+			<key>spriteSize</key>
+			<string>{216, 272}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1464, 586}, {216, 272}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_spinning3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 115}, {212, 270}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -25}</string>
+			<key>spriteSize</key>
+			<string>{212, 270}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1266, 1778}, {212, 270}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_walkback1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 130}, {136, 298}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -54}</string>
+			<key>spriteSize</key>
+			<string>{136, 298}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{696, 1202}, {136, 298}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_walkback2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{79, 130}, {144, 292}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -51}</string>
+			<key>spriteSize</key>
+			<string>{144, 292}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{974, 1494}, {144, 292}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_walkback3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 132}, {136, 288}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -51}</string>
+			<key>spriteSize</key>
+			<string>{136, 288}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1328, 296}, {136, 288}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_walkback4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 130}, {136, 296}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -53}</string>
+			<key>spriteSize</key>
+			<string>{136, 296}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1052, 300}, {136, 296}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_walkback5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 128}, {136, 294}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -50}</string>
+			<key>spriteSize</key>
+			<string>{136, 294}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1244, 0}, {136, 294}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_walkback6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{87, 125}, {136, 298}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -49}</string>
+			<key>spriteSize</key>
+			<string>{136, 298}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{912, 600}, {136, 298}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_walkback7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 127}, {138, 294}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -49}</string>
+			<key>spriteSize</key>
+			<string>{138, 294}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{972, 1198}, {138, 294}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_walkback8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 129}, {136, 296}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -52}</string>
+			<key>spriteSize</key>
+			<string>{136, 296}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{940, 900}, {136, 296}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_walkforward1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 129}, {136, 296}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -52}</string>
+			<key>spriteSize</key>
+			<string>{136, 296}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1050, 600}, {136, 296}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_walkforward2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 127}, {138, 294}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -49}</string>
+			<key>spriteSize</key>
+			<string>{138, 294}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1078, 898}, {138, 294}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_walkforward3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{87, 125}, {136, 298}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -49}</string>
+			<key>spriteSize</key>
+			<string>{136, 298}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{914, 300}, {136, 298}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_walkforward4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 128}, {136, 294}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -50}</string>
+			<key>spriteSize</key>
+			<string>{136, 294}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1188, 598}, {136, 294}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_walkforward5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 130}, {136, 296}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -53}</string>
+			<key>spriteSize</key>
+			<string>{136, 296}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{834, 1200}, {136, 296}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_walkforward6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 132}, {136, 288}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -51}</string>
+			<key>spriteSize</key>
+			<string>{136, 288}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1326, 592}, {136, 288}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_walkforward7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{79, 130}, {144, 292}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -51}</string>
+			<key>spriteSize</key>
+			<string>{144, 292}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1112, 1194}, {144, 292}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_walkforward8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 128}, {136, 300}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -53}</string>
+			<key>spriteSize</key>
+			<string>{136, 300}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1524}, {136, 300}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_walkforward9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 130}, {136, 300}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -55}</string>
+			<key>spriteSize</key>
+			<string>{136, 300}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{332, 0}, {136, 300}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hank_won.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{62, 130}, {166, 302}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -56}</string>
+			<key>spriteSize</key>
+			<string>{166, 302}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 450}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 918}, {166, 302}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.5.5</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+		<key>name</key>
+		<string>hanksheet.zwd</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>poses-ipadhd</string>
+			<key>textureFileName</key>
+			<string>hanksheet_poses-ipadhd</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>hanksheet_poses-ipadhd</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

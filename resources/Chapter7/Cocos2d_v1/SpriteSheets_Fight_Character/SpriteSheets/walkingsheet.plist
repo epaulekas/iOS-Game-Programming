@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>walking0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{15, 31}, {110, 214}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -10}</string>
+			<key>spriteSize</key>
+			<string>{110, 214}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 256}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{122, 2}, {110, 214}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>walking0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 30}, {120, 212}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -8}</string>
+			<key>spriteSize</key>
+			<string>{120, 212}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 256}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{234, 2}, {120, 212}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>walking0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 28}, {118, 214}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -7}</string>
+			<key>spriteSize</key>
+			<string>{118, 214}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 256}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {118, 214}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>walking0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{15, 29}, {110, 212}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -7}</string>
+			<key>spriteSize</key>
+			<string>{110, 212}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 256}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{352, 216}, {110, 212}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>walking0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{15, 31}, {110, 210}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -8}</string>
+			<key>spriteSize</key>
+			<string>{110, 210}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 256}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{464, 216}, {110, 210}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>walking0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 32}, {124, 212}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -10}</string>
+			<key>spriteSize</key>
+			<string>{124, 212}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 256}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{226, 218}, {124, 212}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>walking0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{15, 31}, {110, 212}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -9}</string>
+			<key>spriteSize</key>
+			<string>{110, 212}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 256}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{356, 2}, {110, 212}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>walking0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{15, 31}, {110, 214}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -10}</string>
+			<key>spriteSize</key>
+			<string>{110, 214}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 256}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 218}, {110, 214}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>walking0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{15, 32}, {110, 214}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -11}</string>
+			<key>spriteSize</key>
+			<string>{110, 214}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 256}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{114, 218}, {110, 214}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 512}</string>
+	</dict>
+</dict>
+</plist>
