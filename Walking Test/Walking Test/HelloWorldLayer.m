@@ -13,6 +13,8 @@
 // Needed to obtain the Navigation Controller
 #import "AppDelegate.h"
 #import "Constants.h"
+#import "Enemy.h"
+
 
 #pragma mark - HelloWorldLayer
 
@@ -41,7 +43,9 @@
 	// always call "super" init
 	// Apple recommends to re-assign "self" with the "super's" return value
 	if( (self=[super init]) ) {
-        [self initCharacter];
+//        [self initCharacter];
+        
+        Enemy *theEnemy = [Enemy create];
 	}
 	return self;
 }

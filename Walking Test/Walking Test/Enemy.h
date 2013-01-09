@@ -10,7 +10,9 @@
 #import "cocos2d.h"
 
 @interface Enemy : CCNode {
-    
+
 }
+
++(id) create;
 
 @end
