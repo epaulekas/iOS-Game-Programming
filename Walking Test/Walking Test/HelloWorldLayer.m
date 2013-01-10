@@ -38,18 +38,26 @@
 }
 
 // on "init" you need to initialize your instance
--(id) init
-{
+-(id) init  {
+    CCLOG(@"-(id) init");
 	// always call "super" init
 	// Apple recommends to re-assign "self" with the "super's" return value
 	if( (self=[super init]) ) {
-//        [self initCharacter];
+        CGSize size = [[CCDirector sharedDirector] winSize];
         
         Enemy *theEnemy = [Enemy create];
+        [self addChild:theEnemy];
+        
+        theEnemy.position = ccp(size.width/2, size.height/2);
+        
+        [theEnemy walkAround];
+        [theEnemy setSpeedToLow];
+        [theEnemy tintRedToShowFuriousAnger];
 	}
 	return self;
 }
 
+/*
 - (void) initCharacter  {
     // reset animation phase
     animationCounter = 0;
@@ -156,6 +164,7 @@
     character.rotation = walkDirection * -90;
 
 }
+*/
 
 // on "dealloc" you need to release all your retained objects
 - (void) dealloc

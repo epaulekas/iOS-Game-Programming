@@ -10,9 +10,16 @@
 #import "cocos2d.h"
 
 @interface Enemy : CCNode {
-
+    CCSprite* enemySprite;
+    NSString* baseImage;
+    NSString* stillImage;
 }
 
 +(id) create;
++(id) createAtPosition: (CGPoint) thePoint;
+-(id) initiAtPosition: (CGPoint) thePoint;
+-(void) walkAround;
+-(void) setSpeedToLow;
+-(void) tintRedToShowFuriousAnger;
 
 @end
